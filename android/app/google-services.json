@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "759091543087",
+    "project_id": "barberstar-4b457",
+    "storage_bucket": "barberstar-4b457.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759091543087:android:fbcb8f1067e34fcc98dada",
+        "android_client_info": {
+          "package_name": "issaalyunis.barberstar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "759091543087-8ilscs02vgc47qevdqkqqh43f64pr51k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrjncoKfjCOEZEc1zAZvhZRbFi05d-06I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "759091543087-8ilscs02vgc47qevdqkqqh43f64pr51k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "759091543087-j7bsnbkvnh7377e1o4tt7a1pc64hn6bi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "issaalyunis.barberstar"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
